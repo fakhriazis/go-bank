@@ -40,7 +40,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Run migrations
-      run: make migrateupc
+      run: make migrateup
     
     - name: Install golang-migrate
       run: | 
