@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"go-bank/api"
 	db "go-bank/db/sqlc"
-	"go-bank/db/util"
+	"go-bank/util"
 	"log"
 
 	_ "github.com/lib/pq"
