@@ -3,7 +3,7 @@ package db
 import (
 	"context"
 	"database/sql"
-	"go-bank/db/util"
+	"go-bank/util"
 	"testing"
 	"time"
 

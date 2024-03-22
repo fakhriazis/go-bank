@@ -2,7 +2,7 @@ package db
 
 import (
 	"database/sql"
-	"go-bank/db/util"
+	"go-bank/util"
 	"log"
 	"os"
 	"testing"
